@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "checked": false,
+      "item": "CSS"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "java"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "c#"
+    }
+  ]
+}

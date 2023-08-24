@@ -1,0 +1,28 @@
+{
+    "posts":[
+    {
+      "id": 1,
+      "title": "Java",
+      "datetime": "feb 01,2022 11:17:36 AM",
+      "body": "Completed in Accord Infomatrics"
+    },
+    {
+      "id": 2,
+      "title": "Django",
+      "datetime": "June 01,2022 11:17:36 AM",
+      "body": "Completed Django framework project on my own"
+    },
+    {
+      "id": 3,
+      "title": "Data Migration and Software Testing",
+      "datetime": "March 01,2022 11:17:36 AM",
+      "body": "Completed DVD project"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "datetime": "July 30,2023 11:17:36 AM",
+      "body": "Completed React with To Do List Project"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Json run command:npx json-server -p 3500 -w data/db.json
+
+package:npm i json-server
+
+URL:http://localhost:3500/items
+
+resume:
+https://a026-103-163-248-43.ngrok-free.app/
